@@ -55,7 +55,7 @@ We can go back to the login page by clicking on sign out once we are done with t
 
 ## Home page for doctor:
 
-After logging into the account in the doctor home page we can see some activities like my patients, request, profile, appointment, my calender and sign out.
+
 
 
 ## Catchy Name
