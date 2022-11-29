@@ -34,7 +34,7 @@ public class DoctorHomeActivity extends AppCompatActivity implements DatePickerD
         Intent k = new Intent(DoctorHomeActivity.this, ProfileDoctorActivity.class);
         startActivity(k);
     }
-    Unbinder unbinder;
+    
 
     @OnClick(R.id.myCalendarBtn)
     void myCalendarOnclick() {
