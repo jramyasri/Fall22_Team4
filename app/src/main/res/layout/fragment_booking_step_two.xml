@@ -7,6 +7,12 @@
     android:orientation="vertical"
     android:padding="8dp">
 
+    <devs.mulham.horizontalcalendar.HorizontalCalendarView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/calendarView"
+        android:background="@color/colorPrimary"
+        app:textColorSelected="#FFFF"/>
 
     <androidx.recyclerview.widget.RecyclerView
         android:layout_width="match_parent"
