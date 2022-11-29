@@ -40,7 +40,7 @@ public class MedicalFile extends AppCompatActivity {
     final String patientID = FirebaseAuth.getInstance().getCurrentUser().getEmail().toString();
     FirebaseFirestore db = FirebaseFirestore.getInstance();
     DocumentReference patRef = db.collection("Patient").document("" + patientID + "");
-    StorageReference pathReference ;
+ 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
