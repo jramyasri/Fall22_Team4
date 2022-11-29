@@ -13,7 +13,7 @@
         android:layout_height="215dp"
         android:background="@drawable/rectangle_round"
         android:elevation="6dp"
-        
+        android:gravity="center"
         android:orientation="vertical">
 
         <RelativeLayout
