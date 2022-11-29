@@ -43,7 +43,7 @@ public class TestActivity extends AppCompatActivity {
                 Common.currentTimeSlot = intent.getIntExtra(Common.KEY_TIME_SLOT,-1);
             }
             btn_next_step.setEnabled(true);
-            setColorButton();
+            
         }
 
     };
