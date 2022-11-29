@@ -38,7 +38,7 @@ public class MyPatientsActivity extends AppCompatActivity {
 
         FirestoreRecyclerOptions<Patient> options = new FirestoreRecyclerOptions.Builder<Patient>()
                 .setQuery(query, Patient.class)
-                
+                .build();
 
         adapter = new MyPatientsAdapter(options);
         //ListMyPatients
