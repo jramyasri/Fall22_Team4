@@ -26,7 +26,7 @@ public class PatientAppointementsActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_patient_appointments);
 
-        setUpRecyclerView();
+        
     }
 
     public void setUpRecyclerView(){
