@@ -26,7 +26,7 @@ public class PatientInfoActivity extends AppCompatActivity {
     EditText heightBtn;
     EditText weightBtn;
     Spinner bloodtypeSpinner;
-    Button updateBtn;
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
