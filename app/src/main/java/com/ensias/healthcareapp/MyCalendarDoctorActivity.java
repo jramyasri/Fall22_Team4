@@ -53,7 +53,10 @@ public class MyCalendarDoctorActivity extends AppCompatActivity implements ITime
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-       
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_my_calendar_doctor);
+        ButterKnife.bind(this);
+        init();
     }
 
     private void init() {
