@@ -8,10 +8,7 @@
     app:cardBackgroundColor="@color/cardview_light_background">
 
 
-    <androidx.cardview.widget.CardView
-        android:layout_width="match_parent"
-        android:layout_height="80dp"
-        android:layout_margin="8dp">
+   
 
         <RelativeLayout
             android:layout_width="match_parent"
