@@ -1,0 +1,8 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼ë
+k
+java:S3008
+"URename this field "PatientRef" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¬¡«
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ø³Úã
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ğÉ¦şÿÿÿÿ

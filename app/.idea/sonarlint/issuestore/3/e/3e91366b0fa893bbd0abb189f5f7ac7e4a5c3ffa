@@ -1,0 +1,13 @@
+
+C
+java:S1604;"(Make this anonymous inner class a lambda(ğ±£šÿÿÿÿÿ
+C
+java:S1604H"(Make this anonymous inner class a lambda(ƒÔùÿÿÿÿ
+C
+java:S1604S"(Make this anonymous inner class a lambda(œÁÈÌşÿÿÿÿ
+]
+java:S1858&"B"getEmail" returns a string, there's no need to call "toString()".(¤„â¹ûÿÿÿÿ
+V	java:S125Q"<This block of commented-out lines of code should be removed.(ÊÁşùÿÿÿÿ
+V	java:S125["<This block of commented-out lines of code should be removed.(¹šøÉüÿÿÿÿ
+N
+java:S1874\"3Remove this use of "getDrawable"; it is deprecated.(ÌÖùıÿÿÿÿ

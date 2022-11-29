@@ -1,0 +1,13 @@
+
+r
+java:S1450"WRemove the "birthday" field and declare it as a local variable in the relevant methods.(ÄôÓ¬ûÿÿÿÿ
+m
+java:S1450"RRemove the "btn" field and declare it as a local variable in the relevant methods.(ãÈ§üÿÿÿÿ
+r
+java:S1450"WRemove the "fullName" field and declare it as a local variable in the relevant methods.(’Ä‡‘şÿÿÿÿ
+m
+java:S1450"RRemove the "teL" field and declare it as a local variable in the relevant methods.(ĞƒÊãüÿÿÿÿ
+I
+java:S14814"3Remove this unused "newAccountType" local variable.(­½€¼
+Z
+java:S1659J"DDeclare "birtDay" and all following declarations on a separate line.(ššÇç

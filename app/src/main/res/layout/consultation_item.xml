@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="110dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginEnd="8dp"
+    android:layout_marginStart="8dp"
+    android:layout_marginTop="8dp"
+    app:cardCornerRadius="8dp">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <RelativeLayout
+            android:id="@+id/rlContainer"
+            android:layout_width="match_parent"
+            android:layout_height="110dp">
+
+            <RelativeLayout
+                android:id="@+id/rlDate"
+                android:layout_width="120dp"
+                android:layout_height="match_parent"
+                android:background="@color/colorPrimary">
+
+                <TextView
+                    android:id="@+id/appointement_month"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="July"
+                    android:layout_above="@+id/appointement_day"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginBottom="4dp"
+                    android:textColor="#b8b8b8"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:id="@+id/appointement_day"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="19"
+                    android:textColor="#d81818"
+                    android:textSize="28sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/appointement_day_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/appointement_day"
+                    android:textColor="#b8b8b8"
+                    android:layout_marginTop="4dp"
+                    android:layout_centerHorizontal="true"
+                    android:text="WED" />
+
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rlDoctorContainer"
+                android:layout_width="80dp"
+                android:layout_height="match_parent"
+                android:layout_alignParentEnd="true">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_above="@+id/doctor_name"
+                    android:textAlignment="center"
+                    android:layout_marginBottom="2dp"
+                    android:text="Doctor"
+                    android:textColor="#b8b8b8"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/doctor_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:textAlignment="center"
+                    android:text="Doctor NAME"
+                    android:textColor="#555555"
+                    android:textSize="12sp" />
+
+                <Button
+                    android:id="@+id/voir_fiche_btn"
+                    android:layout_width="72dp"
+                    android:layout_height="26dp"
+                    android:layout_marginTop="8dp"
+                    android:layout_centerHorizontal="true"
+                    android:layout_below="@+id/doctor_name"
+                    android:textColor="@android:color/white"
+                    android:background="@drawable/button_radius_primary_color"
+                    android:text="See Card"
+
+                    android:textSize="9sp" />
+
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="8dp"
+                android:layout_toEndOf="@+id/rlDate"
+                android:layout_toStartOf="@+id/rlDoctorContainer">
+
+                <LinearLayout
+                    android:id="@+id/llTime"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_above="@+id/rlCenterLayout">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:maxLines="1"
+                        android:text="Timming"
+                        android:textColor="#b8b8b8"
+                        android:textSize="12sp" />
+
+                    <TextView
+                        android:id="@+id/doctor_view_title"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:maxLines="1"
+                        android:text="5:00 PM"
+                        android:textColor="#555555"
+                        android:textSize="14sp" />
+                </LinearLayout>
+
+                <RelativeLayout
+                    android:id="@+id/rlCenterLayout"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_margin="4dp"
+                    android:layout_centerInParent="true"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:layout_below="@+id/rlCenterLayout">
+
+                    <TextView
+                        android:id="@+id/text_view_description"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Consultation"
+                        android:textColor="@color/colorPrimaryDark"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        android:id="@+id/text_view_description2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Appointment type"
+                        android:textColor="#b8b8b8"
+                        android:textSize="12sp" />
+
+                </LinearLayout>
+
+
+
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

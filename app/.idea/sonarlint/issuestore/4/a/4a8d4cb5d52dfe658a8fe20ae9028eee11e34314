@@ -1,0 +1,14 @@
+
+C
+java:S1604."(Make this anonymous inner class a lambda(âĞÀŒÿÿÿÿÿ
+C
+java:S16045"(Make this anonymous inner class a lambda(‰ÉİÍøÿÿÿÿ
+C
+java:S1604<"(Make this anonymous inner class a lambda(°³ûşøÿÿÿÿ
+C
+java:S1604E"(Make this anonymous inner class a lambda(ƒÔùÿÿÿÿ
+V	java:S125O"<This block of commented-out lines of code should be removed.(ÊÁşùÿÿÿÿ
+X
+java:S1858f"B"getEmail" returns a string, there's no need to call "toString()".(Ä¦ò
+X
+java:S1858g"B"getEmail" returns a string, there's no need to call "toString()".(äÃ‚¾

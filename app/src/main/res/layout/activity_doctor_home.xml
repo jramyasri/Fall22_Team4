@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E5E5E5"
+    tools:context=".DoctorHomeActivity">
+
+    <LinearLayout
+        android:id="@+id/view"
+        android:layout_width="match_parent"
+        android:layout_height="215dp"
+        android:background="@drawable/rectangle_round"
+        android:elevation="6dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/home_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_above="@+id/doctorName"
+                android:layout_marginBottom="30dp"
+                android:gravity="center"
+                android:text="Home"
+                android:textColor="#ffffff"
+                android:textSize="32sp" />
+
+            <TextView
+                android:id="@+id/doctorName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:text="Welcome Doctor"
+                android:layout_marginBottom="4dp"
+                android:layout_above="@+id/tvHelp"
+                android:textColor="#ffffff"
+                android:textSize="26sp" />
+
+            <TextView
+                android:id="@+id/tvHelp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginBottom="50dp"
+                android:text="How we can help you today?"
+                android:textColor="#ffffff"
+                android:textSize="12sp" />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/view"
+        android:layout_above="@+id/signOutBtn">
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center">
+
+            <RelativeLayout
+                android:id="@+id/rlFirstRow"
+                android:layout_width="wrap_content"
+                android:padding="12dp"
+                android:layout_centerHorizontal="true"
+                android:layout_height="wrap_content">
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/cvListPatients"
+                    android:layout_width="130dp"
+                    android:layout_height="110dp"
+                    android:layout_marginEnd="12dp"
+                    app:cardCornerRadius="20dp"
+                    app:cardUseCompatPadding="true"
+                    android:outlineSpotShadowColor="#000000"
+                    android:elevation="5dp">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:id="@+id/imageView7"
+                            android:layout_width="35dp"
+                            android:layout_height="35dp"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="20dp"
+                            app:srcCompat="@drawable/ic_person" />
+
+                        <Button
+                            android:id="@+id/listPatients"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_margin="4dp"
+                            android:background="@android:color/transparent"
+                            android:fontFamily="@font/roboto"
+                            android:gravity="bottom|center"
+                            android:paddingBottom="12dp"
+                            android:text="My Patients"
+                            android:textAllCaps="false"
+                            android:textColor="#22BE87"
+                            android:textSize="12sp" />
+                    </RelativeLayout>
+
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/cvMedicalRequest"
+                    android:layout_width="130dp"
+                    android:layout_height="110dp"
+                    android:layout_marginStart="12dp"
+                    android:layout_toEndOf="@+id/cvListPatients"
+                    app:cardCornerRadius="20dp"
+                    app:cardUseCompatPadding="true"
+                    android:outlineSpotShadowColor="#000000"
+                    android:elevation="5dp">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:id="@+id/imageView9"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="20dp"
+                            app:srcCompat="@drawable/ic_appointement" />
+
+                        <Button
+                            android:id="@+id/appointement"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_margin="4dp"
+                            android:background="@android:color/transparent"
+                            android:fontFamily="@font/roboto"
+                            android:gravity="bottom|center"
+                            android:paddingBottom="12dp"
+                            android:text="Appointment"
+                            android:textAllCaps="false"
+                            android:textColor="#22BE87"
+                            android:textSize="12sp" />
+                    </RelativeLayout>
+
+                </androidx.cardview.widget.CardView>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rlSecondView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/rlFirstRow"
+                android:layout_centerHorizontal="true">
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/cvListPatients"
+                    android:layout_width="130dp"
+                    android:layout_height="110dp"
+                    android:layout_marginEnd="12dp"
+                    app:cardCornerRadius="20dp"
+                    app:cardUseCompatPadding="true"
+                    android:outlineSpotShadowColor="#000000"
+                    android:elevation="5dp">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:id="@+id/imageView8"
+                            android:layout_width="35dp"
+                            android:layout_height="35dp"
+                            android:layout_marginTop="20dp"
+                            android:layout_centerHorizontal="true"
+                            app:srcCompat="@drawable/ic_profile" />
+
+                        <Button
+                            android:id="@+id/profile"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_margin="4dp"
+                            android:background="@android:color/transparent"
+                            android:fontFamily="@font/roboto"
+                            android:gravity="bottom|center"
+                            android:paddingBottom="12dp"
+                            android:text="Profile"
+                            android:textAllCaps="false"
+                            android:textColor="#22BE87"
+                            android:textSize="12sp" />
+                    </RelativeLayout>
+
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/cvMedicalRequest"
+                    android:layout_width="130dp"
+                    android:layout_height="110dp"
+                    android:layout_marginStart="12dp"
+                    android:layout_toEndOf="@+id/cvListPatients"
+                    app:cardCornerRadius="20dp"
+                    app:cardUseCompatPadding="true"
+                    android:outlineSpotShadowColor="#000000"
+                    android:elevation="5dp">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:id="@+id/imageView10"
+                            android:layout_width="40dp"
+                            android:layout_height="40dp"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="20dp"
+                            app:srcCompat="@drawable/ic_request" />
+
+                        <Button
+                            android:id="@+id/btnRequst"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_margin="4dp"
+                            android:background="@android:color/transparent"
+                            android:fontFamily="@font/roboto"
+                            android:gravity="bottom|center"
+                            android:paddingBottom="12dp"
+                            android:text="Request"
+                            android:textAllCaps="false"
+                            android:textColor="#22BE87"
+                            android:textSize="12sp" />
+                    </RelativeLayout>
+
+                </androidx.cardview.widget.CardView>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rlThirdRow"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/rlSecondView"
+                android:layout_centerHorizontal="true">
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/cvListPatients"
+                    android:layout_width="130dp"
+                    android:layout_height="110dp"
+                    app:cardCornerRadius="20dp"
+                    app:cardUseCompatPadding="true"
+                    android:outlineSpotShadowColor="#000000"
+                    android:elevation="5dp">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:id="@+id/imageView11"
+                            android:layout_width="35dp"
+                            android:layout_height="35dp"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginTop="20dp"
+                            app:srcCompat="@drawable/ic_calendar" />
+
+                        <Button
+                            android:id="@+id/myCalendarBtn"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_margin="4dp"
+                            android:background="@android:color/transparent"
+                            android:fontFamily="@font/roboto"
+                            android:gravity="bottom|center"
+                            android:paddingBottom="12dp"
+                            android:text="My Calendar"
+                            android:textAllCaps="false"
+                            android:textColor="#22BE87"
+                            android:textSize="12sp" />
+                    </RelativeLayout>
+
+                </androidx.cardview.widget.CardView>
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/signOutBtn"
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp"
+        android:background="#50C628"
+        android:text="logout"
+        android:textColor="#ffff"
+        android:textSize="16sp"
+        />
+
+</RelativeLayout>

@@ -1,0 +1,66 @@
+
+t
+java:S1104"YMake CurrentUserid a static final constant or non-public and provide accessors if needed.(áî¢ıÿÿÿÿ
+v
+java:S1104"[Make CurrentUserName a static final constant or non-public and provide accessors if needed.(Øè£´üÿÿÿÿ
+v
+java:S1104"[Make CurrentUserType a static final constant or non-public and provide accessors if needed.(âá¤·ùÿÿÿÿ
+f
+java:S1104"PMake step a static final constant or non-public and provide accessors if needed.(ìşúà
+p
+java:S1104"ZMake CurreentDoctor a static final constant or non-public and provide accessors if needed.(œàšæ
+z
+java:S1104"eMake Currentaappointementatype a static final constant or non-public and provide accessors if needed.(ÕÖÕL
+v
+java:S1104"[Make currentTimeSlot a static final constant or non-public and provide accessors if needed.(›ß©ÿşÿÿÿÿ
+s
+java:S1104"]Make CurrentDoctorName a static final constant or non-public and provide accessors if needed.(ìç‘ü
+m
+java:S1104"WMake currentDate a static final constant or non-public and provide accessors if needed.(§ßà¿
+n
+java:S1104"XMake CurrentPhone a static final constant or non-public and provide accessors if needed.(Ù ¼
+s
+java:S1104"XMake simpleFormat a static final constant or non-public and provide accessors if needed.(Ëñûÿÿÿÿÿ
+N
+java:S1444"3Make this "public static CurrentUserid" field final(áî¢ıÿÿÿÿ
+P
+java:S1444"5Make this "public static CurrentUserName" field final(Øè£´üÿÿÿÿ
+P
+java:S1444"5Make this "public static CurrentUserType" field final(âá¤·ùÿÿÿÿ
+@
+java:S1444"*Make this "public static step" field final(ìşúà
+J
+java:S1444"4Make this "public static CurreentDoctor" field final(œàšæ
+T
+java:S1444"?Make this "public static Currentaappointementatype" field final(ÕÖÕL
+P
+java:S1444"5Make this "public static currentTimeSlot" field final(›ß©ÿşÿÿÿÿ
+M
+java:S1444"7Make this "public static CurrentDoctorName" field final(ìç‘ü
+G
+java:S1444"1Make this "public static currentDate" field final(§ßà¿
+H
+java:S1444"2Make this "public static CurrentPhone" field final(Ù ¼
+M
+java:S1444"2Make this "public static simpleFormat" field final(Ëñûÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ì¦³ñ
+s
+java:S3008"XRename this field "CurrentUserid" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áî¢ıÿÿÿÿ
+u
+java:S3008"ZRename this field "CurrentUserName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øè£´üÿÿÿÿ
+u
+java:S3008"ZRename this field "CurrentUserType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âá¤·ùÿÿÿÿ
+o
+java:S3008"YRename this field "CurreentDoctor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œàšæ
+y
+java:S3008"dRename this field "Currentaappointementatype" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÖÕL
+r
+java:S3008"\Rename this field "CurrentDoctorName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìç‘ü
+m
+java:S3008"WRename this field "CurrentPhone" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù ¼
+U
+java:S1118":Add a private constructor to hide the implicit public one.(âŠ°ÿÿÿÿÿ
+>
+java:S2885"(Make "currentDate" an instance variable.(§ßà¿
+D
+java:S2885")Make "simpleFormat" an instance variable.(Ëñûÿÿÿÿÿ

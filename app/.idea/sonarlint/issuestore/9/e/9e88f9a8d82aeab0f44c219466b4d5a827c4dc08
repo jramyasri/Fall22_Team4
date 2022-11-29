@@ -1,0 +1,5 @@
+
+p	java:S116"VRename this field "SignOutBtn2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“œ–äúÿÿÿÿ
+i	java:S116"TRename this field "BtnRequst" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•¾è§
+]
+java:S18583"B"getEmail" returns a string, there's no need to call "toString()".(ÐïÓèþÿÿÿÿ

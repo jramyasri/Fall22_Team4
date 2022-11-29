@@ -1,0 +1,42 @@
+
+m	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àšâ«8â„÷ÀÅ0
+m	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÉª8â„÷ÀÅ0
+r	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾÷•ùÿÿÿÿ8â„÷ÀÅ0
+r
+java:S1450:"\Remove the "doctorAddress" field and declare it as a local variable in the relevant methods.(Ü¢ÙŸ
+o
+java:S14507"YRemove the "doctorName" field and declare it as a local variable in the relevant methods.(Œ­í¸
+u
+java:S14509"ZRemove the "doctorPhone" field and declare it as a local variable in the relevant methods.(ïöĞ˜úÿÿÿÿ
+w
+java:S1450B"\Remove the "pathReference" field and declare it as a local variable in the relevant methods.(ÄŒ­Üıÿÿÿÿ
+p
+java:S14505"ZRemove the "selectImage" field and declare it as a local variable in the relevant methods.(É™êÀ
+r
+java:S14506"\Remove the "updateProfile" field and declare it as a local variable in the relevant methods.(ñÒèˆ
+]
+java:S1858;"B"getEmail" returns a string, there's no need to call "toString()".(Ä—ùÏúÿÿÿÿ
+]
+java:S1858<"B"getEmail" returns a string, there's no need to call "toString()".(¤„â¹ûÿÿÿÿ
+V	java:S125T"<This block of commented-out lines of code should be removed.(¨–Øñşÿÿÿÿ
+]	java:S125f"<This block of commented-out lines of code should be removed.(´¯Ìÿüÿÿÿÿ8ù„÷ÀÅ0
+I
+java:S1602m",Remove useless curly braces around statement(Î©–‹8ú„÷ÀÅ0
+]	java:S125u"<This block of commented-out lines of code should be removed.(ÊÁşùÿÿÿÿ8ú„÷ÀÅ0
+I
+java:S1602v",Remove useless curly braces around statement(¡ôØ8ú„÷ÀÅ0
+^	java:S125"<This block of commented-out lines of code should be removed.(“Šˆûÿÿÿÿ8ü„÷ÀÅ0
+^	java:S125"<This block of commented-out lines of code should be removed.(”“Ëûÿÿÿÿ8ı„÷ÀÅ0
+P
+java:S1481’"-Remove this unused "activity" local variable.(ş×·Ÿÿÿÿÿÿ8ı„÷ÀÅ0
+Y	java:S125œ"<This block of commented-out lines of code should be removed.(Ä¥ñÒ8ş„÷ÀÅ0
+u
+java:S3776½"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(™“ÉÒıÿÿÿÿ8…÷ÀÅ0
+^	java:S125Ã"<This block of commented-out lines of code should be removed.(ÉÒ’Æüÿÿÿÿ8…÷ÀÅ0
+^	java:S125â"<This block of commented-out lines of code should be removed.(ÏŒ úÿÿÿÿ8ƒ…÷ÀÅ0
+o
+java:S1612†"LReplace this lambda with method reference '!unknown!.this::!unknownMethod!'.(˜á¦Îúÿÿÿÿ8„…÷ÀÅ0
+E
+java:S10688"/Remove this unused "doctorEmail" private field.(‰õÖ³
+M
+java:S1068E"2Remove this unused "currentUserImg" private field.(¿Ÿ§ùÿÿÿÿ

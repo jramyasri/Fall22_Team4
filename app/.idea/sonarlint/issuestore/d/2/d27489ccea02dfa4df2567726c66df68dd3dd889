@@ -1,0 +1,16 @@
+
+J
+java:S1604x"(Make this anonymous inner class a lambda(¦”şÿÿÿÿ8ïµ¹éÄ0
+v	java:S116""\Rename this field "btn_previous_step" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ëÍıÿÿÿÿ
+r	java:S116#"XRename this field "btn_next_step" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àåõ«úÿÿÿÿ
+m
+java:S37764"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(¨Œşÿÿÿÿ
+£
+java:S1186^"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(™Î«şÿÿÿÿ8„¶¹éÄ0
+d
+java:S1126P"BReplace this if-then-else statement by a single method invocation.(³™À‘ıÿÿÿÿ8…¶¹éÄ0
+d
+java:S1126T"BReplace this if-then-else statement by a single method invocation.(‡öâøúÿÿÿÿ8…¶¹éÄ0
+X	java:S125p"<This block of commented-out lines of code should be removed.(ÆîÅÀ8‡¶¹éÄ0
+L
+java:S1172”"/Remove this unused method parameter "doctorId".(¦„¬8Š¶¹éÄ0

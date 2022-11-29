@@ -1,0 +1,14 @@
+
+C
+java:S1604A"(Make this anonymous inner class a lambda(Ïë£ùÿÿÿÿ
+>
+java:S1604:"(Make this anonymous inner class a lambda(“âÌÈ
+>
+java:S1604J"(Make this anonymous inner class a lambda(¦ ¦
+X
+java:S18587"B"getEmail" returns a string, there's no need to call "toString()".(¨¶åå
+V	java:S1259"<This block of commented-out lines of code should be removed.(İÙ¸üÿÿÿÿÿ
+~
+java:S3252D"hUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_SHORT".(¶¦ƒú
+Q
+java:S2696M"6Make the enclosing method "static" or remove this set.(€Ï®½üÿÿÿÿ

@@ -1,0 +1,6 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼ë
+n
+java:S3008"SRename this field "UsersRef" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛãıËşÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(¥ëíí

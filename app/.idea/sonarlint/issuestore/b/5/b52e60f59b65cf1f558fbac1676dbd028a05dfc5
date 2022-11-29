@@ -1,0 +1,43 @@
+
+d
+java:S11922"NDefine a constant instead of duplicating this literal "patient_email" 7 times.(úÅú
+c
+java:S1192]"MDefine a constant instead of duplicating this literal "patient_name" 6 times.(Ğ¬†•
+f	java:S117y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª–Û
+f	java:S117y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª–Û
+f	java:S117y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª–Û
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€—¶®
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏëğÎûÿÿÿÿ
+g	java:S117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€—¶®
+l	java:S117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏëğÎûÿÿÿÿ
+C
+java:S1604C"(Make this anonymous inner class a lambda(ƒÔùÿÿÿÿ
+C
+java:S1604O"(Make this anonymous inner class a lambda(œÁÈÌşÿÿÿÿ
+C
+java:S1604g"(Make this anonymous inner class a lambda(•òÙØşÿÿÿÿ
+c
+java:S2259j"NA "NullPointerException" could be thrown; "documentSnapshot" is nullable here.(ˆ¤‘X
+r	java:S116$"XRename this field "patient_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÿÉÑıÿÿÿÿ
+k	java:S116&"WRename this field "patient_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞĞL
+m	java:S116'"XRename this field "patient_phone" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À±İ¬
+~
+java:S1450#"cRemove the "createNewFicheButton" field and declare it as a local variable in the relevant methods.(¾³Ç‚ÿÿÿÿÿ
+q
+java:S1450%"VRemove the "infobtn" field and declare it as a local variable in the relevant methods.(ÍŠ†úÿÿÿÿ
+`
+java:S1124""EReorder the modifiers to comply with the Java Language Specification.(ÌºÏ·ÿÿÿÿÿ
+X
+java:S1858("B"getEmail" returns a string, there's no need to call "toString()".(¿ —
+V	java:S125M"<This block of commented-out lines of code should be removed.(ÊÁşùÿÿÿÿ
+?
+java:S1481•")Remove this unused "text" local variable.(Õ•+
+R	java:S125–"<This block of commented-out lines of code should be removed.(ëÄ’
+W
+java:S1117"@Rename "patient_name" which hides the field declared at line 38.(€—¶®
+]
+java:S1117"ARename "patient_email" which hides the field declared at line 36.(ÏëğÎûÿÿÿÿ
+W
+java:S1117¦"@Rename "patient_name" which hides the field declared at line 38.(€—¶®
+]
+java:S1117§"ARename "patient_email" which hides the field declared at line 36.(ÏëğÎûÿÿÿÿ

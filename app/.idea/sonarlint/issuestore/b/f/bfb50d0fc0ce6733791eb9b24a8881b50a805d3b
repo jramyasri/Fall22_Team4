@@ -1,0 +1,28 @@
+
+>
+java:S1604v"(Make this anonymous inner class a lambda(œçÓ™
+?
+java:S1604"(Make this anonymous inner class a lambda(ìçºÊ
+h
+java:S3776@"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(·œ»Í
+F
+java:S1874C"0Remove this use of "getColor"; it is deprecated.(ËĞÚÄ
+F
+java:S1874F"0Remove this use of "getColor"; it is deprecated.(øÇÁç
+K
+java:S1874G"0Remove this use of "getColor"; it is deprecated.(ÔÄ§¨úÿÿÿÿ
+E
+java:S1874P"0Remove this use of "getColor"; it is deprecated.(Ş¨Ã?
+K
+java:S1874V"0Remove this use of "getColor"; it is deprecated.(ìÙ°ıÿÿÿÿ
+K
+java:S1874W"0Remove this use of "getColor"; it is deprecated.(›Áöúÿÿÿÿ
+K
+java:S1874g"0Remove this use of "getColor"; it is deprecated.(ìÙ°ıÿÿÿÿ
+F
+java:S1874j"0Remove this use of "getColor"; it is deprecated.(êÜ£€
+s	java:S116¨"XRename this field "txt_time_slot" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ı†¡ùÿÿÿÿ
+	java:S116¨"dRename this field "txt_time_slot_description" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ı†¡ùÿÿÿÿ
+o	java:S116©"YRename this field "card_time_slot" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½¡Ò™
+S
+java:S1659¨"7Declare "txt_time_slot_description" on a separate line.(¤ı†¡ùÿÿÿÿ

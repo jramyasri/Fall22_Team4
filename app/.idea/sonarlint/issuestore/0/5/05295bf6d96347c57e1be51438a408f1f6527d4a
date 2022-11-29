@@ -1,0 +1,21 @@
+
+C
+java:S1604O"(Make this anonymous inner class a lambda(ú¡»Ã˛ˇˇˇˇ
+C
+java:S1604d"(Make this anonymous inner class a lambda(œÎÅ£˘ˇˇˇˇ
+>
+java:S1604]"(Make this anonymous inner class a lambda(ì‚Ã»
+B
+java:S1602F",Remove useless curly braces around statement(Œ©ñã
+V	java:S125N"<This block of commented-out lines of code should be removed.( û¡˛˘ˇˇˇˇ
+X
+java:S1858Z"B"getEmail" returns a string, there's no need to call "toString()".(®∂ÂÂ
+V	java:S125\"<This block of commented-out lines of code should be removed.(›Ÿ∏¸ˇˇˇˇˇ
+~
+java:S3252g"hUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_SHORT".(∂¶É˙
+Q
+java:S2696n"6Make the enclosing method "static" or remove this set.(ÄœÆΩ¸ˇˇˇˇ
+k
+java:S1612è"OReplace this lambda with method reference 'Adapter.this::notifyDataSetChanged'.(ë”Ù©¯ˇˇˇˇ
+k
+java:S1612•"OReplace this lambda with method reference 'Adapter.this::notifyDataSetChanged'.(ë”Ù©¯ˇˇˇˇ

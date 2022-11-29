@@ -1,0 +1,10 @@
+
+>
+java:S1604 "(Make this anonymous inner class a lambda(Íëëé
+C
+java:S1604&"(Make this anonymous inner class a lambda(Á‡ëÛüÿÿÿÿ
+p	java:S116I"VRename this field "doctor_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èêûÏùÿÿÿÿ
+q	java:S116L"]Rename this field "appointement_month" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëØ¹V
+p	java:S116M"[Rename this field "appointement_day" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³»ôò
+z	java:S116N"`Rename this field "appointement_day_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š¶‚úÿÿÿÿ
+v	java:S116O"\Rename this field "doctor_view_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÀÙüÿÿÿÿ

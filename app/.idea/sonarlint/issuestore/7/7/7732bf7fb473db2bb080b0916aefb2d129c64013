@@ -1,0 +1,9 @@
+
+>
+java:S1604A"(Make this anonymous inner class a lambda(Îº’
+o	java:S116"URename this field "SignOutBtn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö²„ıÿÿÿÿ
+i	java:S116"TRename this field "BtnRequst" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•¾è§
+]
+java:S18586"B"getEmail" returns a string, there's no need to call "toString()".(ÒÈ”Áøÿÿÿÿ
+d
+java:S1858@"B"getEmail" returns a string, there's no need to call "toString()".(î²ñ²øÿÿÿÿ8Ú‚İÄ0

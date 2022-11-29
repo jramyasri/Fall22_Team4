@@ -1,0 +1,28 @@
+
+J
+java:S1604E"(Make this anonymous inner class a lambda(œÁÈÌşÿÿÿÿ8Ş¸ÔßÄ0
+|
+java:S1450"ZRemove the "doctorAbout" field and declare it as a local variable in the relevant methods.(Òñéûùÿÿÿÿ8ç¸ÔßÄ0
+w
+java:S1450"ZRemove the "doctorEmail" field and declare it as a local variable in the relevant methods.(°Ìğ8ç¸ÔßÄ0
+u
+java:S1450"ZRemove the "doctorImage" field and declare it as a local variable in the relevant methods.(õÆö‡øÿÿÿÿ
+z
+java:S1450"XRemove the "doctorSpe" field and declare it as a local variable in the relevant methods.(¦ûŸàûÿÿÿÿ8ç¸ÔßÄ0
+d
+java:S1858!"B"getEmail" returns a string, there's no need to call "toString()".(¤„â¹ûÿÿÿÿ8è¸ÔßÄ0
+P
+java:S18745"3Remove this use of "getDrawable"; it is deprecated.(·Ê§„8ê¸ÔßÄ0
+_
+java:S1858:"B"getEmail" returns a string, there's no need to call "toString()".(†ºÙ„8ê¸ÔßÄ0
+]	java:S125D"<This block of commented-out lines of code should be removed.(ÊÁşùÿÿÿÿ8ë¸ÔßÄ0
+]	java:S125O"<This block of commented-out lines of code should be removed.(ûØêşıÿÿÿÿ8ì¸ÔßÄ0
+]	java:S125\"<This block of commented-out lines of code should be removed.(€‘†Òşÿÿÿÿ8í¸ÔßÄ0
+H
+java:S1481a"+Remove this unused "mTitle" local variable.( ÂïÍ8í¸ÔßÄ0
+O
+java:S1068"-Remove this unused "doctorSpe" private field.(¦ûŸàûÿÿÿÿ8ï¸ÔßÄ0
+Q
+java:S1068"/Remove this unused "doctorAbout" private field.(Òñéûùÿÿÿÿ8ï¸ÔßÄ0
+S
+java:S1144d"6Remove this unused private "startHomeActivity" method.(Ÿ¯Ñ¥8ï¸ÔßÄ0

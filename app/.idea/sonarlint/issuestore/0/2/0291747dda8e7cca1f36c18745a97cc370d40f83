@@ -1,0 +1,43 @@
+
+f	java:S117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àšâ«
+f	java:S117S"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÉª
+k	java:S117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾÷•ùÿÿÿÿ
+C
+java:S1604b"(Make this anonymous inner class a lambda(ƒÔžùÿÿÿÿ
+C
+java:S1604n"(Make this anonymous inner class a lambda(œÁÈÌþÿÿÿÿ
+>
+java:S1604w"(Make this anonymous inner class a lambda(®“¾¸
+˜
+java:S1186›"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÆùÝ‰
+r
+java:S14500"\Remove the "doctorAddress" field and declare it as a local variable in the relevant methods.(Ü¢ÙŸ
+o
+java:S1450-"YRemove the "doctorName" field and declare it as a local variable in the relevant methods.(Œ­í¸
+u
+java:S1450/"ZRemove the "doctorPhone" field and declare it as a local variable in the relevant methods.(ïöÐ˜úÿÿÿÿ
+w
+java:S14509"\Remove the "pathReference" field and declare it as a local variable in the relevant methods.(ÄŒ­Üýÿÿÿÿ
+p
+java:S1450+"ZRemove the "selectImage" field and declare it as a local variable in the relevant methods.(É™êÀ
+r
+java:S1450,"\Remove the "updateProfile" field and declare it as a local variable in the relevant methods.(ñÒèˆ
+]
+java:S18581"B"getEmail" returns a string, there's no need to call "toString()".(Ä—ùÏúÿÿÿÿ
+]
+java:S18582"B"getEmail" returns a string, there's no need to call "toString()".(¤„â¹ûÿÿÿÿ
+V	java:S125I"<This block of commented-out lines of code should be removed.(É•äöþÿÿÿÿ
+V	java:S125["<This block of commented-out lines of code should be removed.(´¯Ìÿüÿÿÿÿ
+V	java:S125l"<This block of commented-out lines of code should be removed.(ÊžÁþùÿÿÿÿ
+W	java:S125‚"<This block of commented-out lines of code should be removed.(“ŠŽˆûÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(”“Ëûÿÿÿÿ
+J
+java:S1602‘",Remove useless curly braces around statement(§ÀÇ8ÄŠüßÄ0
+W	java:S125Á"<This block of commented-out lines of code should be removed.(ÉÒ’Æüÿÿÿÿ
+W	java:S125Û"<This block of commented-out lines of code should be removed.(ÏŒ úÿÿÿÿ
+B
+java:S1068)"'Remove this unused "TAG" private field.(Êè©üÿÿÿÿ
+E
+java:S1068."/Remove this unused "doctorEmail" private field.(‰õÖ³
+M
+java:S1068<"2Remove this unused "currentUserImg" private field.(¿Ÿ§ùÿÿÿÿ

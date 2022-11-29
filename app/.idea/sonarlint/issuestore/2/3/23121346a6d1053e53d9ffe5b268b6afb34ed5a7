@@ -1,0 +1,17 @@
+
+C
+java:S1604P"(Make this anonymous inner class a lambda(Ïë£ùÿÿÿÿ
+C
+java:S1604Y"(Make this anonymous inner class a lambda(œÁÈÌşÿÿÿÿ
+C
+java:S1604^"(Make this anonymous inner class a lambda(ÕéÌñÿÿÿÿÿ
+|
+java:S1488…"`Immediately return this expression instead of assigning it to the temporary variable "fragment".(ğ¥‚Ïüÿÿÿÿ
+|	java:S1162"bRename this field "txt_booking_berber_text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÎ‰øÿÿÿÿ
+z	java:S1164"`Rename this field "txt_booking_time_text" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò„ÔÚúÿÿÿÿ
+u	java:S1166"[Rename this field "txt_booking_type" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­‰’¦ÿÿÿÿÿ
+q	java:S1168"\Rename this field "txt_booking_phone" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ÌâÙ
+P
+java:S1172„"9Remove these unused method parameters "param1", "param2".(¤‡Çà
+U
+java:S3398v"?Move this method into the anonymous class declared at line 109.(óê‚¥

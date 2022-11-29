@@ -1,0 +1,25 @@
+
+^
+java:S11925"IDefine a constant instead of duplicating this literal "calendar" 3 times.(Óèºl
+]
+java:S11925"HDefine a constant instead of duplicating this literal "Patient" 3 times.(Óèºl
+>
+java:S1604>"(Make this anonymous inner class a lambda(ëòËØ
+>
+java:S1604F"(Make this anonymous inner class a lambda(ëòËØ
+>
+java:S16041"(Make this anonymous inner class a lambda(ºÓğ«
+>
+java:S1604R"(Make this anonymous inner class a lambda(–ºúÙ
+C
+java:S1604_"(Make this anonymous inner class a lambda(ƒÔùÿÿÿÿ
+C
+java:S1604k"(Make this anonymous inner class a lambda(œÁÈÌşÿÿÿÿ
+V	java:S125i"<This block of commented-out lines of code should be removed.(ÊÁşùÿÿÿÿ
+]
+java:S1858v"B"getEmail" returns a string, there's no need to call "toString()".(…£°Èùÿÿÿÿ
+X
+java:S1858w"B"getEmail" returns a string, there's no need to call "toString()".(äóáš
+s	java:S116‰"XRename this field "patient_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š‹´Üøÿÿÿÿ
+C
+java:S1144t"-Remove this unused private "openPage" method.(Ñæª

@@ -1,0 +1,21 @@
+
+F
+java:S1659#"1Declare "isProfilePicFetched" on a separate line.(œ™¹j
+u
+java:S1450"ZRemove the "doctorAbout" field and declare it as a local variable in the relevant methods.(Òñéûùÿÿÿÿ
+p
+java:S1450"ZRemove the "doctorEmail" field and declare it as a local variable in the relevant methods.(°Ìğ
+|
+java:S1450"ZRemove the "doctorImage" field and declare it as a local variable in the relevant methods.(õÆö‡øÿÿÿÿ8¬É°Å0
+s
+java:S1450"XRemove the "doctorSpe" field and declare it as a local variable in the relevant methods.(¦ûŸàûÿÿÿÿ
+]
+java:S1858 "B"getEmail" returns a string, there's no need to call "toString()".(¤„â¹ûÿÿÿÿ
+_
+java:S1858:"B"getEmail" returns a string, there's no need to call "toString()".(†ºÙ„8Ä¤šÀÅ0
+]	java:S125F"<This block of commented-out lines of code should be removed.(ÊÁşùÿÿÿÿ8Å¤šÀÅ0
+]	java:S125]"<This block of commented-out lines of code should be removed.(€‘†Òşÿÿÿÿ8Æ¤šÀÅ0
+H
+java:S1481b"+Remove this unused "mTitle" local variable.( ÂïÍ8Ç¤šÀÅ0
+J
+java:S1068"/Remove this unused "doctorAbout" private field.(Òñéûùÿÿÿÿ

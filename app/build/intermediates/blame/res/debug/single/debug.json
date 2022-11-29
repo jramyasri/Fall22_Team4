@@ -1,0 +1,658 @@
+[
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_profile_patient.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\activity_edit_profile_patient.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_message_chat_item.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\message_chat_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto.ttf.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\font\\roboto.ttf"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_primary_gradient_green.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\primary_gradient_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_default_profile_pic.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\ic_default_profile_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loading_shape.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\loading_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_header_selector.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\main_header_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_school_black_24dp.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-xxhdpi\\ic_school_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_patient_request_page.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\activity_patient_request_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_medcal_logo.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\medcal_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_app_icon.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\ic_app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_app_icon.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_add_circle_black_24px.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-xhdpi\\ic_add_circle_black_24px.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_image_notification.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-xxhdpi\\ic_image_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_local_hospital_black_24dp.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\ic_local_hospital_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_request.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\ic_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_android_white_24dp.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_android_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cloud_white_24dp.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-xhdpi\\ic_cloud_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_bug_report_white_24dp.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_bug_report_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_home.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\button_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_booking_step3.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\fragment_booking_step3.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_confirmed_appointements.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\activity_confirmed_appointements.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_filter_list_black_24dp.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\ic_filter_list_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_doctor_24dp.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\ic_doctor_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_call_black_24dp.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\ic_call_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dossier_medical.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\activity_dossier_medical.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\menu_top_app_bar.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\menu\\top_app_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_assignment_ind_black_24dp.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\ic_assignment_ind_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_image_notification.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-hdpi\\ic_image_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_android_white_24dp.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-hdpi\\ic_android_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logo_auth.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\ic_logo_auth.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_add_circle_black_24px.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-hdpi\\ic_add_circle_black_24px.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_chat_message_background.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\ic_chat_message_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_more_vert_white_24dp.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\ic_more_vert_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\font_amita.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\font\\amita.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_message2.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\rounded_message2.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_my_patient_item.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\my_patient_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_doctor_appointement.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\activity_doctor_appointement.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_camera_alt_black_24dp.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\ic_camera_alt_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_relativelayout.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\rounded_relativelayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_consultation_page.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\fragment_consultation_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\img.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_consultation.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\fragment_consultation.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_chat_black_24dp.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\ic_chat_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_booking_step_one.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\fragment_booking_step_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile_doctor.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\activity_profile_doctor.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_doctor_home.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\activity_doctor_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_account_24dp.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\ic_account_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_success.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\button_success.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_android_white_24dp.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-xxhdpi\\ic_android_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rr.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\rr.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_doctor_item.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\doctor_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_phone_android_black_24dp.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\ic_phone_android_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_confirmed_appointements_item.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\confirmed_appointements_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add_circle_black_24px.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-xxhdpi\\ic_add_circle_black_24px.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_radius_primary_color.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\button_radius_primary_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_white.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\ic_search_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_exit_to_app_black_24dp.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\ic_exit_to_app_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_android_white_24dp.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-xhdpi\\ic_android_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_image_notification.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-xhdpi\\ic_image_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile_info.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\activity_profile_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_hospitalisation.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\fragment_hospitalisation.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_location_black_24dp.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\ic_add_location_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_doctors.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\activity_my_doctors.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_consultation_item.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\consultation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_doctor.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\doctor.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_bug_report_white_24dp.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-mdpi\\ic_bug_report_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search_pat.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\activity_search_pat.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rating_background.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\rating_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_medcal_logo.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-hdpi\\medcal_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_test.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person_black_24dp.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\ic_person_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fiche.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\activity_fiche.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_pat_request_item.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\pat_request_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_price_background.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\price_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_medcal_logo.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-xxhdpi\\medcal_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_email_black_24dp.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\ic_email_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_healthy.jpg.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-xxxhdpi\\healthy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_patient_appointments.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\activity_patient_appointments.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_school_black_24dp.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_school_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_bug_report_white_24dp.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-hdpi\\ic_bug_report_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_back_black_24dp.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\ic_arrow_back_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_bug_report_white_24dp.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-xhdpi\\ic_bug_report_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_android_white_24dp.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-mdpi\\ic_android_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_patient_info.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\activity_patient_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_medcal_logo.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-xxxhdpi\\medcal_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_appointement.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\activity_appointement.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_date.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\ic_date.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\menu_navigation_bar.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\menu\\navigation_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_dialog.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\rounded_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_medcal_logo.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-mdpi\\medcal_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cloud_white_24dp.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-hdpi\\ic_cloud_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_link_background.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\link_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fiche_info.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\activity_fiche_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_calendar.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\ic_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_hospitalisation_item.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\hospitalisation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_bug_report_white_24dp.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-xxhdpi\\ic_bug_report_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_first_signin.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\activity_first_signin.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_patients.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\activity_my_patients.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_cloud_white_24dp.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-mdpi\\ic_cloud_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile.jpg.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\profile.jpg"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_booking_step_two.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\fragment_booking_step_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_attach_money_black_24dp.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\ic_attach_money_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_doctor_appointement_item.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\doctor_appointement_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_image_notification.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-mdpi\\ic_image_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_school_black_24dp.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-xhdpi\\ic_school_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_profile_doctor.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\activity_edit_profile_doctor.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_time_slot.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\layout_time_slot.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_add_circle_black_24px.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_add_circle_black_24px.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_medcal_logo.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-v24\\medcal_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_school_black_24dp.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-mdpi\\ic_school_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search_white_24dp.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\ic_search_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_green.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\button_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rectangle_round.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\rectangle_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_school_black_24dp.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-hdpi\\ic_school_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_medcal_logo.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-xhdpi\\medcal_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_radius_accent_color.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\button_radius_accent_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_appointement.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\ic_appointement.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_cloud_white_24dp.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_cloud_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_image_notification.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_image_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_patient_appointments_item.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\patient_appointments_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_profile.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_monetization_on_black_24dp.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\ic_monetization_on_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_profile_circle.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\bg_profile_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_calendar_doctor.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\activity_my_calendar_doctor.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_valide.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-v24\\valide.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_danger.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\button_danger.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_edittext.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\rounded_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_valide.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\valide.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cloud_white_24dp.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-xxhdpi\\ic_cloud_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_add_circle_black_24px.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-mdpi\\ic_add_circle_black_24px.png"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\font_roboto_light.ttf.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\font\\roboto_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_anon_user_48dp.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\ic_anon_user_48dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_my_doctor_item.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\layout\\my_doctor_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_message.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\rounded_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_edit_black_24dp.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable\\ic_edit_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\font_courgette.xml.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\font\\courgette.xml"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_note_background.jpg.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\drawable-v24\\note_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\S546555\\Desktop\\Appointment_App 4\\Appointment_App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]

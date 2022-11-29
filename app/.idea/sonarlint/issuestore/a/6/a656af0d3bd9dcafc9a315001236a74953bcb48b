@@ -1,0 +1,11 @@
+
+E
+java:S1604\"(Make this anonymous inner class a lambda(É©å˙8∞óîÈƒ0
+J
+java:S1604n"(Make this anonymous inner class a lambda(ú¡»Ã˛ˇˇˇˇ8∞óîÈƒ0
+r	java:S116>"]Rename this field "recycler_time_slot" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Í”œ
+h
+java:S3776M"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Ç’Î≥
+E
+java:S1172M"/Remove this unused method parameter "doctorId".(Ç’Î≥
+Y	java:S125•"<This block of commented-out lines of code should be removed.(”ˇöÇ8ÃóîÈƒ0

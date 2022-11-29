@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginBottom="8dp"
+    app:cardBackgroundColor="@color/cardview_light_background">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="95dp">
+
+        <ImageView
+            android:id="@+id/patient_image"
+            android:layout_width="69dp"
+            android:layout_height="65dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="14dp"
+            android:layout_marginLeft="14dp"
+            android:layout_marginBottom="16dp"
+            android:foregroundGravity="center"
+            app:srcCompat="@drawable/ic_anon_user_48dp" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toStartOf="@+id/rlStatus"
+            android:layout_marginStart="8dp"
+            android:layout_toEndOf="@+id/patient_image">
+
+            <TextView
+                android:id="@+id/patient_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/roboto"
+                android:text="Patient name"
+                android:textColor="#22BE87"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/patient_phone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp"
+                android:layout_below="@+id/patient_name"
+                android:fontFamily="@font/roboto_light"
+                android:text="0652316456"
+                android:textColor="#B9B9B9"
+                android:visibility="gone"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/appointement_date"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/patient_phone"
+                android:layout_marginTop="4dp"
+                android:fontFamily="@font/roboto"
+                android:text="12/06/2020 at 9pm"
+                android:textColor="#22BE87"
+                android:textSize="14sp" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rlStatus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_marginBottom="8dp"
+            android:layout_marginHorizontal="8dp">
+
+            <RelativeLayout
+                android:id="@+id/rlContainer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_above="@+id/appointement_type">
+
+                <TextView
+                    android:id="@+id/tvPlaceHolderStatus"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:fontFamily="@font/roboto"
+                    android:text="Status:"
+                    android:textColor="#B9B9B9"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/type"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="4dp"
+                    android:layout_toEndOf="@+id/tvPlaceHolderStatus"
+                    android:fontFamily="@font/roboto"
+                    android:layout_above="@+id/appointement_type"
+
+                    android:text="Accepted"
+                    android:textColor="#22BE87"
+                    android:textSize="12sp" />
+
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/appointement_type"
+                android:layout_width="wrap_content"
+                android:paddingHorizontal="16dp"
+                android:paddingVertical="4dp"
+                android:layout_marginTop="8dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+
+                android:background="@drawable/button_radius_accent_color"
+                android:fontFamily="@font/roboto_light"
+                android:text="Hospitalisation"
+                android:gravity="center"
+                android:textColor="#fff"
+                android:textSize="10sp" />
+
+        </RelativeLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

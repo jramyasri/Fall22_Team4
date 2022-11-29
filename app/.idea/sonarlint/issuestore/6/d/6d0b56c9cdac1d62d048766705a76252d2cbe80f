@@ -1,0 +1,17 @@
+
+X	java:S125R"<This block of commented-out lines of code should be removed.(‰”´Ã8î¹ÖÇ0
+]	java:S125]"<This block of commented-out lines of code should be removed.(Â™†úÿÿÿÿ8ï¹ÖÇ0
+]	java:S125_"<This block of commented-out lines of code should be removed.(¼ˆ¿Ôşÿÿÿÿ8ï¹ÖÇ0
+D
+java:S1185c"(Remove this method to simply inherit it.(ºŠñ=8ï¹ÖÇ0
+J
+java:S1185h"(Remove this method to simply inherit it.(èüù±ùÿÿÿÿ8ğ¹ÖÇ0
+P
+java:S1874r"3Remove this use of "getDrawable"; it is deprecated.(’ä†8ğ¹ÖÇ0
+u
+java:S3252u"SUse static access with "android.text.style.DynamicDrawableSpan" for "ALIGN_BOTTOM".(’©–‰şÿÿÿÿ8ñ¹ÖÇ0
+c
+java:S3252v"MUse static access with "android.text.Spanned" for "SPAN_EXCLUSIVE_EXCLUSIVE".(£îŸ´
+]	java:S125w"<This block of commented-out lines of code should be removed.(ëŠ÷®øÿÿÿÿ8ñ¹ÖÇ0
+R
+java:S1874{"0Remove this use of "fromHtml"; it is deprecated.(ï°ç¡úÿÿÿÿ8ñ¹ÖÇ0

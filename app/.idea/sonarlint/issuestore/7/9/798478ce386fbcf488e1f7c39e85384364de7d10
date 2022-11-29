@@ -1,0 +1,7 @@
+
+k	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ýÊ×€ûÿÿÿÿ
+v
+java:S1488$"`Immediately return this expression instead of assigning it to the temporary variable "fragment".(·úÕø
+h	java:S116"SRename this field "FicheRef" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒÅ³¢
+m
+java:S1450"WRemove the "FicheRef" field and declare it as a local variable in the relevant methods.(ŒÅ³¢
