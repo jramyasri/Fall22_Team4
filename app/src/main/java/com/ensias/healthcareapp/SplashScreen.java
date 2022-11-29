@@ -34,7 +34,7 @@ public class SplashScreen extends AppCompatActivity {
         setContentView(R.layout.activity_splash_screen);
         ivLogo = findViewById(R.id.tvAppName);
 
-        mAuth = FirebaseAuth.getInstance()
+        mAuth = FirebaseAuth.getInstance();
 
         AlphaAnimation anim = new AlphaAnimation(1.0f, 0.3f);
         anim.setRepeatCount(Animation.INFINITE);
