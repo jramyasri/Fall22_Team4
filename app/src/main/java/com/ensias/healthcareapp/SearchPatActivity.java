@@ -73,7 +73,7 @@ public class SearchPatActivity extends AppCompatActivity {
                     }
                 }
                 if (!avoidList.contains(doctor.getName())) {
-                 
+                    filteredDoctors.add(doctor);
                 }
             }
 
