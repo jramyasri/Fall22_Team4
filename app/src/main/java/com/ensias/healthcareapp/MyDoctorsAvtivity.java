@@ -31,7 +31,7 @@ public class MyDoctorsAvtivity extends AppCompatActivity {
 
         findViewById(R.id.ivBack).setOnClickListener(view -> finish());
 
-        
+        setUpRecyclerView();
     }
 
     public void setUpRecyclerView(){
