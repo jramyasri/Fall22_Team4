@@ -74,6 +74,8 @@ public class MyCalendarDoctorActivity extends AppCompatActivity implements ITime
 
         Calendar startDate = Calendar.getInstance();
         startDate.add(Calendar.DATE,0);
+
+        
         Calendar endDate = Calendar.getInstance();
         endDate.add(Calendar.DATE,5);
         HorizontalCalendar horizontalCalendar = new HorizontalCalendar.Builder(this,R.id.calendarView2)
