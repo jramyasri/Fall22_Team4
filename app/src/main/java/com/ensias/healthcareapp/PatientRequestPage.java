@@ -34,6 +34,7 @@ public class PatientRequestPage extends AppCompatActivity {
     }
 
     private void setUpRecyclerView() {
+        
         final String idDoc = FirebaseAuth.getInstance().getCurrentUser().getEmail().toString();
         Query query = addRef.whereEqualTo("id_doctor",idDoc+"").orderBy("id_patient", Query.Direction.DESCENDING);
 
