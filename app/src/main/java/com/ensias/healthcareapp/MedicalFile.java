@@ -60,6 +60,9 @@ public class MedicalFile extends AppCompatActivity {
             createNewFicheButton.setVisibility(View.GONE);
         }
         infobtn= findViewById(R.id.infobtn);
+
+
+
         infobtn.setOnClickListener(v -> openPatientInfo());
 
         String imageId = patient_email+".jpg"; //add a title image
