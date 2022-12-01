@@ -54,7 +54,7 @@ public class SearchPatActivity extends AppCompatActivity {
         AlertDialog progress = HCAlert.showProgress(this, "Fetching Doctor's List...");
 
         RecyclerView recyclerView = findViewById(R.id.serachPatRecycle);
-        
+
         recyclerView.setHasFixedSize(true);
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
         Query query = doctorRef.orderBy("name", Query.Direction.DESCENDING);
