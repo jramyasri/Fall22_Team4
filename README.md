@@ -19,7 +19,7 @@
 > front desk or scheduler during business hours or play phone tag. When your phone line is busy or your office is closed, online scheduling can help you convert 
 > android application visitors into new patients. and you can easliy search for an doctor appointment with in your place with the help of our Vaidhya application.
 
-## Activities:
+## Activities: For Patient
 
 ## Sign up page:
 
@@ -61,6 +61,35 @@ We can go back to the login page by clicking on sign out once we are done with t
 
 After logging into the account in the doctor home page we can see some activities like my patients, request, profile, appointment, my calender and sign out.
 
+## Activities: For Doctor
+
+## Home page for doctor:
+
+After logging into the account in the doctor home page we can see some activities like my patients, appointment, request, profile, my calendar and sign out.
+
+## My Patients: 
+
+Here a doctor can see the list of patients that he/she treated.
+
+## Appointment: 
+
+It will show all the appointments that the doctor is going to treat and all the appointment list that he/she treated before.
+
+## Request: 
+
+Here the doctor can see all the consultation or hospitalization requests from the patients and he/she can accept or decline the appointment based on their availability.
+
+## Profile: 
+
+Here doctors can see their own profile information and they can also edit the contact details if there is any necessary.
+
+## My Calendar: 
+
+This activity shows all the available and not available time slots. The doctor can block particular time slot if he/she is not available at that time.
+
+## Sign out: 
+
+We can go back to the login page by clicking on sign out once we are done with the appointment or any information update. 
 
 ## Catchy Name
 
