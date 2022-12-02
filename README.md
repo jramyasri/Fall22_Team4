@@ -78,15 +78,15 @@ HealthTap
 
 ## Patient Login
 
-UserName:amigo@patient.com
+UserName:nallasravanims@gmail.com
 
-Password:admin@123
+Password:sravani123
 
 ## Doctor Login
 
-UserName:doctor@kims.com	
+UserName:poojKunta2201@gmail.com	
 
-Password:admin@123
+Password:pooja123
 
 ## Supported Devices:
 
